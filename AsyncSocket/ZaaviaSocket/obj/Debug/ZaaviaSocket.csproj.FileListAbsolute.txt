@@ -1,0 +1,6 @@
+D:\MVC Practice\AsyncSocket\ZaaviaSocket\bin\Debug\ZaaviaSocket.dll
+D:\MVC Practice\AsyncSocket\ZaaviaSocket\bin\Debug\ZaaviaSocket.pdb
+D:\MVC Practice\AsyncSocket\ZaaviaSocket\obj\Debug\ZaaviaSocket.csproj.AssemblyReference.cache
+D:\MVC Practice\AsyncSocket\ZaaviaSocket\obj\Debug\ZaaviaSocket.csproj.CoreCompileInputs.cache
+D:\MVC Practice\AsyncSocket\ZaaviaSocket\obj\Debug\ZaaviaSocket.dll
+D:\MVC Practice\AsyncSocket\ZaaviaSocket\obj\Debug\ZaaviaSocket.pdb

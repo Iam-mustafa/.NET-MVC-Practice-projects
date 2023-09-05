@@ -1,0 +1,8 @@
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.exe.config
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.exe
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.pdb
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.csproj.AssemblyReference.cache
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.csproj.SuggestedBindingRedirects.cache
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.csproj.CoreCompileInputs.cache
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.exe
+D:\MVC Practice\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.pdb

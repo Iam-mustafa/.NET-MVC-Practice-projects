@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AsyncSocket/1.0.0": {
+        "dependencies": {
+          "ZaaviaSocket": "1.0.0"
+        },
+        "runtime": {
+          "AsyncSocket.dll": {}
+        }
+      },
+      "ZaaviaSocket/1.0.0": {
+        "runtime": {
+          "ZaaviaSocket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncSocket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZaaviaSocket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\MVC Practice\TCPClient01\TCPClient01\bin\Debug\net6.0-windows\TCPClient01.exe
+D:\MVC Practice\TCPClient01\TCPClient01\bin\Debug\net6.0-windows\TCPClient01.deps.json
+D:\MVC Practice\TCPClient01\TCPClient01\bin\Debug\net6.0-windows\TCPClient01.runtimeconfig.json
+D:\MVC Practice\TCPClient01\TCPClient01\bin\Debug\net6.0-windows\TCPClient01.dll
+D:\MVC Practice\TCPClient01\TCPClient01\bin\Debug\net6.0-windows\TCPClient01.pdb
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.csproj.AssemblyReference.cache
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.Form1.resources
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.csproj.GenerateResource.cache
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.AssemblyInfoInputs.cache
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.AssemblyInfo.cs
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.csproj.CoreCompileInputs.cache
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.dll
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\refint\TCPClient01.dll
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.pdb
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\TCPClient01.genruntimeconfig.cache
+D:\MVC Practice\TCPClient01\TCPClient01\obj\Debug\net6.0-windows\ref\TCPClient01.dll

@@ -1,0 +1,17 @@
+D:\MVC Practice\TCPServer01\TCPServer01\bin\Debug\net6.0-windows\TCPServer01.exe
+D:\MVC Practice\TCPServer01\TCPServer01\bin\Debug\net6.0-windows\TCPServer01.deps.json
+D:\MVC Practice\TCPServer01\TCPServer01\bin\Debug\net6.0-windows\TCPServer01.runtimeconfig.json
+D:\MVC Practice\TCPServer01\TCPServer01\bin\Debug\net6.0-windows\TCPServer01.dll
+D:\MVC Practice\TCPServer01\TCPServer01\bin\Debug\net6.0-windows\TCPServer01.pdb
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.csproj.AssemblyReference.cache
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.Form1.resources
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.csproj.GenerateResource.cache
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.AssemblyInfoInputs.cache
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.AssemblyInfo.cs
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.csproj.CoreCompileInputs.cache
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.dll
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\refint\TCPServer01.dll
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.pdb
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\TCPServer01.genruntimeconfig.cache
+D:\MVC Practice\TCPServer01\TCPServer01\obj\Debug\net6.0-windows\ref\TCPServer01.dll
